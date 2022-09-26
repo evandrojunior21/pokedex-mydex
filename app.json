@@ -1,10 +1,17 @@
 {
   "expo": {
-    "name": "navegation",
-    "slug": "navegation",
+    "name": "mydex",
+    "slug": "mydex",
     "version": "1.0.0",
+    "owner": "evandrojunior21",
+    "icon": "./img/logo.png",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7c3fc9e6-01d5-481c-9dc4-0bb644c59a98"
+      }
+    }
   }
 }
