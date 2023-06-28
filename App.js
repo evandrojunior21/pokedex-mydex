@@ -6,10 +6,7 @@ import Pokedex from './pokedex';
 import Card from './card';
 import Pokemon from './Pokemon';
 
-
-
 const Stack = createNativeStackNavigator();
-
 export default function App() {
   return (
     <View style={styles.container}>

@@ -1,16 +1,15 @@
 {
   "expo": {
-    "name": "mydex",
-    "slug": "mydex",
+    "name": "mydex2",
+    "slug": "mydex2",
     "version": "1.0.0",
     "owner": "evandrojunior21",
-    "icon": "./img/logo.png",
     "assetBundlePatterns": [
       "**/*"
     ],
     "extra": {
       "eas": {
-        "projectId": "7c3fc9e6-01d5-481c-9dc4-0bb644c59a98"
+        "projectId": "5cdb6776-d0b7-432a-a6e3-ccd7d71e6b71"
       }
     }
   }

@@ -13,7 +13,6 @@ export default function Pokedex({ navigation }) {
         <ScrollView>
             <View style={styles.container}>
                 <Header />
-                
                 {POKEMON.map(item => 
                     <TouchableOpacity key={item.numero} onPress={() => navigation.navigate('Pokemon', {...item})}>
                         <Card props={item}/>
